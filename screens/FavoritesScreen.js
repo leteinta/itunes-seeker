@@ -53,7 +53,7 @@ export default function FavoritesScreen({ navigation }) {
                     default={item.rating}
                     count={5}
                     disabled={true}
-                    half={false} // Désactive les demi-étoiles
+                    half={false} 
                     starSize={24}
                     fullStar={<Icon name={'star'} style={{ color: 'gold', fontSize: 24 }} />}
                     emptyStar={<Icon name={'star-outline'} style={{ color: 'gold', fontSize: 24 }} />}
