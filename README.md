@@ -21,5 +21,5 @@ iTunes Seeker est une application mobile React Native qui permet de rechercher d
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/itunes-seeker.git
+git clone https://github.com/leteinta/itunes-seeker.git
 cd itunes-seeker
